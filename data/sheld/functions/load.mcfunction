@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"sheld> ","color":"green"},{"text":"Data Pack upload!"}]
+tellraw @a ["",{"text":"sheld> ","color":"green"},{"text":"Created by flamebousteur!","clickEvent":{"action":"open_url","value":"https://flamebousteur.github.io"},"color":"yellow","bold":true}]
